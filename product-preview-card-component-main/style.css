@@ -1,0 +1,60 @@
+.bg-color{
+    background-color :hsl(30, 38%, 92%)
+}
+
+.card{
+    background-color: hsl(0, 0%, 100%);
+    margin: auto;
+}
+.type{
+    font-size: small;
+}
+.card-body{
+    margin-right: 1rem;
+    margin-top: 1rem;
+}
+.card-title{
+    font-size: x-large;
+    font-family: 'Fraunces', serif;
+    font-weight: 700;
+}
+p{
+    font-family: 'Fraunces', serif;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+}
+.price{
+    font-size: small;
+    text-decoration: line-through;
+}
+
+.discount{
+    font-family: 'Fraunces', serif;
+    font-size:x-large;
+    font-weight: 700;
+    color:darkgreen;
+    /* margin-right: 10px; */
+}
+
+.btn{
+  font-size: small;
+}
+
+.p-60{
+    padding: 60px;
+}
+
+.mb-10{
+    margin-bottom: 10px;
+}
+
+.mr-5{
+    margin-right: 5px;
+}
+
+.img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
