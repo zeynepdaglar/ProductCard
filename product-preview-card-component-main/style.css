@@ -18,6 +18,10 @@ body {
     align-items: center;
     height: 100vh;
 }
+img{
+    max-height: 300px;
+    object-fit: cover;
+}
 .card{
     margin: auto;
 }
